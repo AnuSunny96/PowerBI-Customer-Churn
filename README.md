@@ -10,4 +10,4 @@ This Power BI dashboard analyzes customer churn patterns in the telecom sector, 
 - *Usage Behavior* – Analyzes call, SMS, and data usage
 
 ## Download the Power BI Report
-[Click here to download the .pbix file](https://github.com/AnuSunny96/PowerBI-Customer-Churn/releases/download/v1.0/customer-churn-project.pbix)
+[Click here to download the .pbix file](https://github.com/AnuSunny96/PowerBI-Customer-Churn/releases/download/v1.0/customer.churn.project.pbix)
